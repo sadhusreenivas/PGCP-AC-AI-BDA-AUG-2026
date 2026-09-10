@@ -1,0 +1,8 @@
+1)Arrays to Strings =>Arrays.toString(arr_name);
+2)String to charArray = > String_Name.toCharArray();
+3)Integer to String => Integer.toString(int_value);
+4)Strnig to Integer => Integer.parseInt(string_value);
+5)char to String => Character.toString(char_value);
+6)String to char => String_name.charAt(Index);
+7)int to char => (char) var a;
+8)char to int -> (int) var b;

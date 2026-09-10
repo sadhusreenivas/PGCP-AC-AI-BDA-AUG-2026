@@ -1,0 +1,20 @@
+Association among classes (has-A/is-A relation = > Aggregation, composition ,etc....
+*******************************
+When we  model classes , We identify relationship between classes
+
+1)Inheritance :  "is a" Relationship
+		 ex : Student "is a" Person  , Dog " is a" Animal
+		Their will be generic thing and specific thing
+
+2)Association : Structural(Their is no Meaning) Relationship
+	i)Composition = "has -A" relationship - whole/part
+			ex : lib "has a" books, Person "has a" address				
+
+	ii)Aggregation = "has -A" relationship - strong whole/part  => Nested Classes
+			 ex: Computer "has a " Proccessor"
+			     Vehicle "has a " engine
+
+3)Realization : among different components
+		classes and interfaces/abstract classes
+		class implements interface
+		ex: someone taking the contract and someone is fulfilling
